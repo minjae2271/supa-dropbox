@@ -1,5 +1,8 @@
+import Ui from "./ui";
+
 export default function Home() {
+
   return (
-    <main>dropbox clone</main>
+    <Ui />
   )
 }
